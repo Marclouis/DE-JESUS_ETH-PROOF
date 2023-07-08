@@ -27,5 +27,7 @@ The contract uses a mapping variable called `balances` to store the token balanc
 ```solidity
 function mint(address _address, uint _value) public
 
+
+```
 ### `burn`
 function burn(address _address, uint _value) public
